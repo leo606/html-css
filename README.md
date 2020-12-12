@@ -19,7 +19,7 @@ esse é um codigo bem legal:
 <body>
  ```
 
-![imagem-legal](exercicios\ex011\imgs\foto-p.png)
+![dfg dfg dfg ](https://thumbs.dreamstime.com/t/beautiful-summer-landscape-mountain-river-sunrise-30344012.jpg)
 
  Número | Nome | Nota
  --- | --- | ---
