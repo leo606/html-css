@@ -19,6 +19,8 @@ esse é um codigo bem legal:
 <body>
  ```
 
+> isso é uma quote
+
 ![dfg dfg dfg ](https://thumbs.dreamstime.com/t/beautiful-summer-landscape-mountain-river-sunrise-30344012.jpg)
 
  Número | Nome | Nota
