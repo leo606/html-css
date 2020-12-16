@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Desafio 7</title>
+</head>
+<body>
+  <h1>Desafio Imagens Flexiveis</h1>
+  <p>Você está vendo essa imagem pequena? aumente a tela para ampliar a imagem</p>
+  <picture>
+    <source media="(max-width: 950px)" srcset="imgs/puppies-p.jpg" type="image/jpeg">
+    <source media="(max-width: 1100px)" srcset="imgs/puppies-m.jpg" type="image/jpeg">
+    <img src="imgs/puppies.jpg" alt="">
+  </picture>
+</body>
+</html>
